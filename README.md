@@ -11,3 +11,10 @@ best_model_latest.pth.tar = "https://huggingface.co/spaces/BilalSardar/Voice-Clo
 ```
 
 Use wget to download. In the Colab NoteBook i have pre downloaded it to my Drive and just copyied to my Notebook.
+
+
+## APP.py
+
+There are three kinds of run env in the repo. The *.ipynb file can be run directly in a colab notebook after downloading the ```SE_checkpoint.pth.tar``` and ```best_model_latest.pth.tar``` in the notebook properly.
+
+You can also run the app.py to launch the Gradio app. Remember to install the necessary dependencies.

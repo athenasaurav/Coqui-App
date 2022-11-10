@@ -10,7 +10,7 @@ SE_checkpoint.pth.tar = "https://huggingface.co/spaces/BilalSardar/Voice-Cloning
 best_model_latest.pth.tar = "https://huggingface.co/spaces/BilalSardar/Voice-Cloning/resolve/main/best_model_latest.pth.tar"
 ```
 
-Use wget to download. In the Colab NoteBook i have pre downloaded it to my Drive and just copyied to my Notebook.
+Use wget to download. In the [Colab NoteBook](https://github.com/athenasaurav/Coqui-App/blob/main/Coqui_notebook.ipynb) i have pre downloaded it to my Drive and just copyied to my Notebook.
 
 
 ## APP.py
